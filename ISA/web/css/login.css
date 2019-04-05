@@ -1,0 +1,46 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25/03/2019, 02:51:45 PM
+    Author     : Miste
+*/
+body{
+    width: 100%;
+    padding: 0;
+    background-image: url(../image/css-background-image-size-fit-full-screen.jpg);
+}
+img{
+    position: absolute;
+    top: calc(33% - 80px);
+    left: calc(50% - 39px);
+    
+}
+
+form{
+    display:block;
+    position: absolute;
+    top: 40%;
+    left: calc(50% - 150px);
+    width: 300px;
+    color: white;
+    font-family: Federant;
+}
+ h6{
+    display:block;
+    position: absolute;
+    top:70%;
+    left: calc(50% - 150px);
+    width: 300px;
+}
+h2{
+    display:block;
+    position: absolute;
+    top: 5%;
+    left: calc(50% - 150px);
+    width: 300px;
+    color: white;
+    font-family: Rockwell Extra Bold;
+}
